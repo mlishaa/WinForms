@@ -1,0 +1,10 @@
+C:\Users\ipd\source\repos\examFinalWF\examFinalWF\bin\Debug\examFinalWF.exe.config
+C:\Users\ipd\source\repos\examFinalWF\examFinalWF\bin\Debug\examFinalWF.exe
+C:\Users\ipd\source\repos\examFinalWF\examFinalWF\bin\Debug\examFinalWF.pdb
+C:\Users\ipd\source\repos\examFinalWF\examFinalWF\obj\Debug\examFinalWF.csprojAssemblyReference.cache
+C:\Users\ipd\source\repos\examFinalWF\examFinalWF\obj\Debug\examFinalWF.Form1.resources
+C:\Users\ipd\source\repos\examFinalWF\examFinalWF\obj\Debug\examFinalWF.Properties.Resources.resources
+C:\Users\ipd\source\repos\examFinalWF\examFinalWF\obj\Debug\examFinalWF.csproj.GenerateResource.cache
+C:\Users\ipd\source\repos\examFinalWF\examFinalWF\obj\Debug\examFinalWF.csproj.CoreCompileInputs.cache
+C:\Users\ipd\source\repos\examFinalWF\examFinalWF\obj\Debug\examFinalWF.exe
+C:\Users\ipd\source\repos\examFinalWF\examFinalWF\obj\Debug\examFinalWF.pdb
